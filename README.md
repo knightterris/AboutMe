@@ -1,6 +1,6 @@
 # Hello, I'm Aung Kaung Myat! 👋
 # You can call me K.
-User count: ![User Count](https://img.shields.io/badge/dynamic/json?color=blue&label=Users&query=%24.count&url=https%3A%2F%2Fapi.example.com%2Fusercount%2Fknightterris)
+User count: ![User Count](https://img.shields.io/badge/dynamic/json?color=blue&label=Users&query=%24.count&url=https%3A%2F%2Fapi.github.com%2Fusercount%2Fknightterris)
 
 ## Technologies I've Learned
 Here are some of the technologies I've learned and worked with:
