@@ -12,7 +12,11 @@ Here are some of the technologies I've learned and worked with:
 - jQuery ![jQuery](https://img.shields.io/badge/-jQuery-blue?style=flat-square&logo=jquery&logoColor=white)
 - PHP ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 - Laravel ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+- MongoDB ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+- ExpressJS ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 - Vue.js ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+- NodeJS ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
 
 Feel free to explore my repositories to see examples of my work with these technologies!
 
